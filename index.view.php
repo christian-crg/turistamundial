@@ -16,7 +16,7 @@
 	<caption>Tablero</caption>
 	<tbody>
 		<tr>
-			<td>Groenlandia</td>
+			<td rowspan=3 colspan=3>Groenlandia</td>
 			<td>
 				Japón
 				<br/>
@@ -62,7 +62,7 @@
 				<br/>
 				$ 270
 			</td>
-			<td>
+			<td rowspan=3 colspan=3>
 				Oceanía
 			</td>
 		</tr>
@@ -72,7 +72,7 @@
 				<br/>
 				Japón
 			</td>
-			<td>
+			<td rowspan=2>
 				Imagen
 				<br/>
 				Aduana
@@ -87,7 +87,7 @@
 				<br/>
 				Turquía
 			</td>
-			<td>
+			<td rowspan=2>
 				Imagen
 				<br/>
 				Línea Aérea
@@ -99,7 +99,7 @@
 				<br/>
 				Israel
 			</td>
-			<td>
+			<td rowspan=2>
 				Imagen
 				<br/>
 				E-mail
@@ -177,7 +177,7 @@
 				<br/>
 				Noruega
 			</td>
-			<td>
+			<td rowspan=9 colspan=9>
 				Mapa
 				<br/>
 				Mundo
@@ -204,7 +204,7 @@
 			<td>
 				Consulado
 			</td>
-			<td>
+			<td colspan=2>
 				Imagen
 				<br/>
 				Consulado
@@ -245,7 +245,7 @@
 				<br/>
 				Alemania
 			</td>
-			<td>
+			<td colspan=2>
 				Imagen
 				<br/>
 				Fax
@@ -298,14 +298,14 @@
 				<br/>
 				$ 200
 			</td>
-			<td>
+			<td colspan=2>
 				Imagen
 				<br/>
 				Línea aérea
 				<br/>
 				Europea
 			</td>
-			<td>
+			<td colspan=2>
 				Imagen
 				<br/>
 				Línea aérea
@@ -360,12 +360,12 @@
 			<td>
 				Fax
 			</td>
-			<td>
+			<td colspan=2>
 				Imagen
 				<br/>
 				Fax
 			</td>
-			<td>
+			<td colspan=2>
 				Imagen
 				<br/>
 				Embajada
@@ -447,7 +447,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td rowspan=3 colspan=3>
 				Méxicow
 			</td>
 			<td>
@@ -464,7 +464,7 @@
 				<br/>
 				El Salvador
 			</td>
-			<td>
+			<td rowspan=2>
 				Imagen
 				<br/>
 				Visas
@@ -476,7 +476,7 @@
 				<br/>
 				Panamá
 			</td>
-			<td>
+			<td rowspan=2>
 				Imagen Línea
 				<br/>
 				Aérea americana
@@ -495,7 +495,7 @@
 				<br/>
 				Brazil
 			</td>
-			<td>
+			<td rowspan=2>
 				Imagen
 				<br/>
 				E-mail
@@ -507,7 +507,7 @@
 				<br/>
 				Argentina
 			</td>
-			<td>
+			<td rowspan=3 colspan=3>
 				Deportado
 			</td>
 		</tr>
@@ -523,21 +523,9 @@
 				El Salvador
 			</td>
 			<td>
-				Visas
-				<br/>
-				$ 100
-			</td>
-			<td>
 				Bandera
 				<br/>
 				Panamá
-			</td>
-			<td>
-				Línea Aérea
-				<br/>
-				Americana
-				<br/>
-				$ 200
 			</td>
 			<td>
 				Bandera
@@ -548,9 +536,6 @@
 				Bandera
 				<br/>
 				Brazil
-			</td>
-			<td>
-				E-mail
 			</td>
 			<td>
 				Bandera
@@ -572,9 +557,21 @@
 				$ 50
 			</td>
 			<td>
+				Visas
+				<br/>
+				$ 100
+			</td>
+			<td>
 				Panamá
 				<br/>
 				$ 80
+			</td>
+			<td>
+				Línea Aérea
+				<br/>
+				Americana
+				<br/>
+				$ 200
 			</td>
 			<td>
 				Venezuela
@@ -585,6 +582,9 @@
 				Brazil
 				<br/>
 				$ 150
+			</td>
+			<td>
+				E-mail
 			</td>
 			<td>
 				Argentina
