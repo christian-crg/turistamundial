@@ -77,7 +77,7 @@
 				<br/>
 				Aduana
 			</td>
-			<td>
+			<td class="BanderaChina">
 				Bandera
 				<br/>
 				China
@@ -94,7 +94,7 @@
 				<br/>
 				Asiática
 			</td>
-			<td>
+			<td class="BanderaIsrael">
 				Bandera
 				<br/>
 				Israel
@@ -104,54 +104,54 @@
 				<br/>
 				E-mail
 			</td>
-			<td>
+			<td class="BanderaIndia">
 				Bandera
 				<br/>
 				India
 			</td>
-			<td>
+			<td class="BanderaRusia">
 				Bandera
 				<br/>
 				Rusia
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="SegmentoAsiáticoDos">
 				Color segmento
 				<br/>
 				asiático dos
 				<br/>
 				Japón
 			</td>
-			<td>
+			<td class="SegmentoAsiáticoDos">
 				Color segmento
 				<br/>
 				asiático dos
 				<br/>
 				China
 			</td>
-			<td>
+			<td class="SegmentoAsiáticoDos">
 				Color segmento
 				<br/>
 				asiático dos
 				<br/>
 				Turquía
 			</td>
-			<td>
+			<td class="SegmentoAsiáticoUno">
 				Color segmento
 				<br/>
 				asiático uno
 				<br/>
 				Israel
 			</td>
-			<td>
+			<td class="SegmentoAsiáticoUno">
 				Color segmento
 				<br/>
 				asiático uno
 				<br/>
 				India
 			</td>
-			<td>
+			<td class="SegmentoAsiáticoUno">
 				Color segmento
 				<br/>
 				asiático uno
@@ -170,10 +170,10 @@
 				<br/>
 				Noruega
 			</td>
-			<td>
+			<td class="SegmentoEuropeoUno">
 				Color segmento
 				<br/>
-				Europa uno
+				europeo uno
 				<br/>
 				Noruega
 			</td>
@@ -182,7 +182,7 @@
 				<br/>
 				Mundo
 			</td>
-			<td>
+			<td class="SegmentoAfricanoDos">
 				Color segmento
 				<br/>
 				africano dos
@@ -209,7 +209,7 @@
 				<br/>
 				Consulado
 			</td>
-			<td>
+			<td class="SegmentoAfricanoDos">
 				Color segmento
 				<br/>
 				africano dos
@@ -233,12 +233,12 @@
 				<br/>
 				$ 270
 			</td>
-			<td>
+			<td class="BanderaAlemania">
 				Bandera
 				<br/>
 				Alemania
 			</td>
-			<td>
+			<td class="SegmentoEuropeoUno">
 				Color segmento
 				<br/>
 				europeo uno
@@ -265,14 +265,14 @@
 				<br/>
 				Polonia
 			</td>
-			<td>
+			<td class="SegmentoEuropeoUno">
 				Color segmento
 				<br/>
 				europeo uno
 				<br/>
 				Polonia
 			</td>
-			<td>
+			<td class="SegmentoAfricanoDos">
 				Color segmento
 				<br/>
 				africano dos
@@ -326,26 +326,26 @@
 				<br/>
 				$ 300
 			</td>
-			<td>
+			<td class="BanderaEspaña">
 				Bandera
 				<br/>
 				España
 			</td>
-			<td>
+			<td class="SegmentoEuropeoDos">
 				Color segmento
 				<br/>
 				europeo dos
 				<br/>
 				España
 			</td>
-			<td>
+			<td class="SegmentoAfricanoUno">
 				Color segmento
 				<br/>
 				africano uno
 				<br/>
 				Etiopía
 			</td>
-			<td>
+			<td class="BanderaEtiopía">
 				Bandera
 				<br/>
 				Etiopía
@@ -380,19 +380,19 @@
 				<br/>
 				$ 320
 			</td>
-			<td>
+			<td class="BanderaFrancia">
 				Bandera
 				<br/>
 				Francia
 			</td>
-			<td>
+			<td class="SegmentoEuropeoDos">
 				Color segmento
 				<br/>
 				europeo dos
 				<br/>
 				Francia
 			</td>
-			<td>
+			<td class="SegmentoAfricanoUno">
 				Color segmento
 				<br/>
 				africano uno
@@ -416,19 +416,19 @@
 				<br/>
 				$ 350
 			</td>
-			<td>
+			<td class="BanderaInglaterra">
 				Bandera
 				<br/>
 				Inglaterra
 			</td>
-			<td>
+			<td class="SegmentoEuropeoDos">
 				Color segmento
 				<br/>
 				europeo dos
 				<br/>
 				Inglaterra
 			</td>
-			<td>
+			<td class="SegmentoAfricanoUno">
 				Color segmento
 				<br/>
 				africano uno
@@ -450,14 +450,14 @@
 			<td rowspan=3 colspan=3>
 				Méxicow
 			</td>
-			<td>
+			<td class="SegmentoAmericanoUno">
 				Color segmento
 				<br/>
 				americano uno
 				<br/>
 				Estados Unidos
 			</td>
-			<td>
+			<td class="SegmentoAmericanoUno">
 				Color segmento
 				<br/>
 				americano uno
@@ -469,7 +469,7 @@
 				<br/>
 				Visas
 			</td>
-			<td>
+			<td class="SegmentoAmericanoUno">
 				Color segmento
 				<br/>
 				americano uno
@@ -481,14 +481,14 @@
 				<br/>
 				Aérea americana
 			</td>
-			<td>
+			<td class="SegmentoAmericanoDos">
 				Color segmento
 				<br/>
 				americano dos
 				<br/>
 				Venezuela
 			</td>
-			<td>
+			<td class="SegmentoAmericanoDos">
 				Color segmento
 				<br/>
 				americano dos
@@ -500,7 +500,7 @@
 				<br/>
 				E-mail
 			</td>
-			<td>
+			<td class="SegmentoAmericanoDos">
 				Color segmento
 				<br/>
 				americano dos
@@ -517,7 +517,7 @@
 				<br/>
 				Estados Unidos
 			</td>
-			<td>
+			<td class="BanderaElSalvador">
 				Bandera
 				<br/>
 				El Salvador
@@ -532,12 +532,12 @@
 				<br/>
 				Venezuela
 			</td>
-			<td>
+			<td class="BanderaBrazil">
 				Bandera
 				<br/>
 				Brazil
 			</td>
-			<td>
+			<td class="BanderaArgentina">
 				Bandera
 				<br/>
 				Argentina

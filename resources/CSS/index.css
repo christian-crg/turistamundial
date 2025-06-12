@@ -1,24 +1,119 @@
-.test
+.SegmentoAmericanoUno
 {
-	text-align: center;
-	padding: 20px;
-	color: white;
-	font-size: 90px;
-	width: 800px;
-	height: 400px;
-	font-family: 'Arial';
-	background-image: linear-gradient(135deg, #100080 0%, #1000C0 100%);
+	background: forestgreen;
 }
 
-.gradient
-{
-	background: rgb(2,0,36);
-	background: linear-gradient(333deg, rgba(0,0,40,1) 0%, rgba(16,0,128,1) 50%, rgba(16,0,255,1) 100%);
-}
-
-.bodyText
+.SegmentoAmericanoDos
 {
 	color: white;
-	font-size: 24px;
+	background: darkblue;
+}
+
+.SegmentoAfricanoUno
+{
+	background: yellow;
+}
+
+.SegmentoAfricanoDos
+{
+	background: red;
+}
+
+.SegmentoAsiáticoUno
+{
+	background: orange;
+}
+
+.SegmentoAsiáticoDos
+{
+	color: white;
+	background: indigo;
+}
+
+.SegmentoEuropeoUno
+{
+	background: deepskyblue;
+}
+
+.SegmentoEuropeoDos
+{
+	background: hotpink;
+}
+
+.BanderaArgentina
+{
+	background-image: url('/resources/SVG/Flag_of_Argentina.svg');
+	Background-size: contain;
+}
+
+.BanderaBrazil
+{
+	background-image: url('/resources/SVG/Flag_of_Brazil.svg');
+	Background-size: contain;
+}
+
+.BanderaElSalvador
+{
+	background-image: url('/resources/SVG/Flag_of_El_Salvador.svg');
+	Background-size: contain;
+}
+
+.BanderaEtiopía
+{
+	background-image: url('/resources/SVG/Flag_of_Ethiopia.svg');
+	Background-size: contain;
+}
+
+.BanderaFrancia
+{
+	background-image: url('/resources/SVG/Flag_of_France.svg');
+	Background-size: contain;
+}
+
+.BanderaAlemania
+{
+	background-image: url('/resources/SVG/Flag_of_Germany.svg');
+	Background-size: contain;
+}
+
+.BanderaIndia
+{
+	background-image: url('/resources/SVG/Flag_of_India.svg');
+	Background-size: contain;
+}
+
+.BanderaIsrael
+{
+	background-image: url('/resources/SVG/Flag_of_Israel.svg');
+	Background-size: contain;
+}
+
+.BanderaRusia
+{
+	background-image: url('/resources/SVG/Flag_of_Russia.svg');
+	Background-size: contain;
+}
+
+.BanderaEspaña
+{
+	background-image: url('/resources/SVG/Flag_of_Spain.svg');
+	Background-size: contain;
+}
+
+.BanderaChina
+{
+	background-image: url('/resources/SVG/Flag_of_the_People\'s_Republic_of_China.svg');
+	Background-size: contain;
+}
+
+.BanderaInglaterra
+{
+	background-image: url('/resources/SVG/Flag_of_the_United_Kingdom.svg');
+	Background-size: contain;
+}
+
+.td
+{
+	font-size: 12px;
 	font-family: 'Arial';
 }
