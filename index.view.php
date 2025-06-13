@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="resources/CSS/index.css">
+    <link rel="stylesheet" href="resources/CSS/index.css?v=1.1">
     <title>
         SET - <?php echo APPNAME; ?>
     </title>
@@ -17,47 +17,47 @@
 	<tbody>
 		<tr>
 			<td rowspan=3 colspan=3>Groenlandia</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				Japón
 				<br/>
 				$ 250
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				Aduana
 				<br/>
 				Pague $ 100
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				China
 				<br/>
 				$ 250
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				Turquía
 				<br/>
 				$ 220
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				Línea Aérea
 				<br/>
 				Asiática
 				<br/>
 				$ 200
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				Israel
 				<br/>
 				$ 250
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				E-mail
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				India
 				<br/>
 				$ 200
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosSuperior">
 				Rusia
 				<br/>
 				$ 270
@@ -67,7 +67,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="BanderaJapón">
 				Bandera
 				<br/>
 				Japón
@@ -82,7 +82,7 @@
 				<br/>
 				China
 			</td>
-			<td>
+			<td class="BanderaTurquía">
 				Bandera
 				<br/>
 				Turquía
@@ -160,12 +160,12 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Noruega
 				<br/>
 				$250
 			</td>
-			<td>
+			<td class="BanderaNoruega">
 				Bandera
 				<br/>
 				Noruega
@@ -189,19 +189,19 @@
 				<br/>
 				Liberia
 			</td>
-			<td>
+			<td class="BanderaLiberia">
 				Bandera
 				<br/>
 				Liberia
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Liberia
 				<br/>
 				$ 220
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Consulado
 			</td>
 			<td colspan=2>
@@ -216,19 +216,19 @@
 				<br/>
 				Nigeria
 			</td>
-			<td>
+			<td class="BanderaNigeria">
 				Bandera
 				<br/>
 				Nigeria
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Nigeria
 				<br/>
 				$ 200
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Alemania
 				<br/>
 				$ 270
@@ -250,17 +250,17 @@
 				<br/>
 				Fax
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Fax
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Polonia
 				<br/>
 				$ 300
 			</td>
-			<td>
+			<td class="BanderaPolonia">
 				Bandera
 				<br/>
 				Polonia
@@ -279,19 +279,19 @@
 				<br/>
 				Sudán
 			</td>
-			<td>
+			<td class="BanderaSudán">
 				Bandera
 				<br/>
 				Sudán
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Sudán
 				<br/>
 				$ 180
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Línea aérea
 				<br/>
 				Europea
@@ -312,7 +312,7 @@
 				<br/>
 				Africana
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Línea aérea
 				<br/>
 				Africana
@@ -321,7 +321,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				España
 				<br/>
 				$ 300
@@ -350,14 +350,14 @@
 				<br/>
 				Etiopía
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Etiopía
 				<br/>
 				$ 200
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Fax
 			</td>
 			<td colspan=2>
@@ -370,12 +370,12 @@
 				<br/>
 				Embajada
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Embajada
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Francia
 				<br/>
 				$ 320
@@ -399,19 +399,19 @@
 				<br/>
 				Marruecos
 			</td>
-			<td>
+			<td class="BanderaMarruecos">
 				Bandera
 				<br/>
 				Marruecos
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Marruecos
 				<br/>
 				$ 180
 			</td>
 		</tr>
 		<tr>
-			<td>
+			<td class="EtiquetasDePreciosIzquierdo">
 				Inglaterra
 				<br/>
 				$ 350
@@ -435,12 +435,12 @@
 				<br/>
 				Libia
 			</td>
-			<td>
+			<td class="BanderaLibia">
 				Bandera
 				<br/>
 				Libia
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosDerecho">
 				Libia
 				<br/>
 				$ 150
@@ -512,7 +512,7 @@
 			</td>
 		</tr>
 		<tr>
-		<td>
+			<td class="BanderaEstadosUnidos">
 				Bandera
 				<br/>
 				Estados Unidos
@@ -522,12 +522,12 @@
 				<br/>
 				El Salvador
 			</td>
-			<td>
+			<td class="BanderaPanamá">
 				Bandera
 				<br/>
 				Panamá
 			</td>
-			<td>
+			<td class="BanderaVenezuela">
 				Bandera
 				<br/>
 				Venezuela
@@ -544,49 +544,49 @@
 			</td>
 		</tr>
 		<tr>
-		<td>
+			<td class="EtiquetasDePreciosInferior">
 				Estados
 				<br/>
 				Unidos
 				<br/>
 				$ 50
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				El Salvador
 				<br/>
 				$ 50
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				Visas
 				<br/>
 				$ 100
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				Panamá
 				<br/>
 				$ 80
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				Línea Aérea
 				<br/>
 				Americana
 				<br/>
 				$ 200
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				Venezuela
 				<br/>
 				$ 120
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				Brazil
 				<br/>
 				$ 150
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				E-mail
 			</td>
-			<td>
+			<td class="EtiquetasDePreciosInferior">
 				Argentina
 				<br/>
 				$ 180

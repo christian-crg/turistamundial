@@ -43,77 +43,210 @@
 .BanderaArgentina
 {
 	background-image: url('/resources/SVG/Flag_of_Argentina.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaBrazil
 {
 	background-image: url('/resources/SVG/Flag_of_Brazil.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaElSalvador
 {
 	background-image: url('/resources/SVG/Flag_of_El_Salvador.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaEtiopía
 {
 	background-image: url('/resources/SVG/Flag_of_Ethiopia.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaFrancia
 {
 	background-image: url('/resources/SVG/Flag_of_France.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaAlemania
 {
 	background-image: url('/resources/SVG/Flag_of_Germany.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaIndia
 {
 	background-image: url('/resources/SVG/Flag_of_India.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaIsrael
 {
 	background-image: url('/resources/SVG/Flag_of_Israel.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaRusia
 {
 	background-image: url('/resources/SVG/Flag_of_Russia.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaEspaña
 {
 	background-image: url('/resources/SVG/Flag_of_Spain.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaChina
 {
 	background-image: url('/resources/SVG/Flag_of_the_People\'s_Republic_of_China.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
 .BanderaInglaterra
 {
 	background-image: url('/resources/SVG/Flag_of_the_United_Kingdom.svg');
-	Background-size: contain;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 
-.td
+.BanderaJapón
+{
+	background-image: url('/resources/SVG/Flag_of_Japan.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaLiberia
+{
+	background-image: url('/resources/SVG/Flag_of_Liberia.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaLibia
+{
+	background-image: url('/resources/SVG/Flag_of_Libya.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaMéxico
+{
+	background-image: url('/resources/SVG/Flag_of_Mexico.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaMarruecos
+{
+	background-image: url('/resources/SVG/Flag_of_Morocco.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaNigeria
+{
+	background-image: url('/resources/SVG/Flag_of_Nigeria.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaNoruega
+{
+	background-image: url('/resources/SVG/Flag_of_Norway.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaPanamá
+{
+	background-image: url('/resources/SVG/Flag_of_Panama.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaPolonia
+{
+	background-image: url('/resources/SVG/Flag_of_Poland.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaSudán
+{
+	background-image: url('/resources/SVG/Flag_of_Sudan.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaVenezuela
+{
+	background-image: url('/resources/SVG/Flag_of_Venezuela.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaEstadosUnidos
+{
+	background-image: url('/resources/SVG/Flag_of_the_United_States_\(Web_Colors\).svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.BanderaTurquía
+{
+	background-image: url('/resources/SVG/Flag_of_Turkey.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.EtiquetasDePreciosSuperior
 {
 	font-size: 12px;
 	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	transform: rotate(180deg);
+}
+
+.EtiquetasDePreciosIzquierdo
+{
+	font-size: 12px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	writing-mode: vertical-rl;
+}
+
+.EtiquetasDePreciosDerecho
+{
+	font-size: 12px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	writing-mode: vertical-rl;
+	transform: rotate(180deg);
+}
+
+.EtiquetasDePreciosInferior
+{
+	font-size: 12px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
 }
