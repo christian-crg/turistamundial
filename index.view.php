@@ -15,8 +15,10 @@
 <table border="1" height="100%">
 	<caption>Tablero</caption>
 	<tbody>
-		<tr>
-			<td rowspan=3 colspan=3>Groenlandia</td>
+		<tr height="40px">
+			<td rowspan=3 colspan=3 class="BanderaGroenlandia">
+				Groenlandia
+			</td>
 			<td class="EtiquetasDePreciosSuperior">
 				Japón
 				<br/>
@@ -62,15 +64,13 @@
 				<br/>
 				$ 270
 			</td>
-			<td rowspan=3 colspan=3>
+			<td rowspan=3 colspan=3 class="BanderaAustralia">
 				Oceanía
 			</td>
 		</tr>
-		<tr>
+		<tr height="160px">
 			<td class="BanderaJapón">
-				Bandera
-				<br/>
-				Japón
+				<picture></picture>
 			</td>
 			<td rowspan=2>
 				Imagen
@@ -78,14 +78,8 @@
 				Aduana
 			</td>
 			<td class="BanderaChina">
-				Bandera
-				<br/>
-				China
 			</td>
 			<td class="BanderaTurquía">
-				Bandera
-				<br/>
-				Turquía
 			</td>
 			<td rowspan=2>
 				Imagen
@@ -95,9 +89,6 @@
 				Asiática
 			</td>
 			<td class="BanderaIsrael">
-				Bandera
-				<br/>
-				Israel
 			</td>
 			<td rowspan=2>
 				Imagen
@@ -105,58 +96,22 @@
 				E-mail
 			</td>
 			<td class="BanderaIndia">
-				Bandera
-				<br/>
-				India
 			</td>
 			<td class="BanderaRusia">
-				Bandera
-				<br/>
-				Rusia
 			</td>
 		</tr>
 		<tr>
-			<td class="SegmentoAsiáticoDos">
-				Color segmento
-				<br/>
-				asiático dos
-				<br/>
-				Japón
+			<td height="20px" width="100px" class="SegmentoAsiáticoDos">
 			</td>
-			<td class="SegmentoAsiáticoDos">
-				Color segmento
-				<br/>
-				asiático dos
-				<br/>
-				China
+			<td height="20px" width="100px" class="SegmentoAsiáticoDos">
 			</td>
-			<td class="SegmentoAsiáticoDos">
-				Color segmento
-				<br/>
-				asiático dos
-				<br/>
-				Turquía
+			<td height="20px" width="100px" class="SegmentoAsiáticoDos">
 			</td>
-			<td class="SegmentoAsiáticoUno">
-				Color segmento
-				<br/>
-				asiático uno
-				<br/>
-				Israel
+			<td height="20px" width="100px" class="SegmentoAsiáticoUno">
 			</td>
-			<td class="SegmentoAsiáticoUno">
-				Color segmento
-				<br/>
-				asiático uno
-				<br/>
-				India
+			<td height="20px" width="100px" class="SegmentoAsiáticoUno">
 			</td>
-			<td class="SegmentoAsiáticoUno">
-				Color segmento
-				<br/>
-				asiático uno
-				<br/>
-				Rusia
+			<td height="20px" width="100px" class="SegmentoAsiáticoUno">
 			</td>
 		</tr>
 		<tr>
@@ -165,17 +120,9 @@
 				<br/>
 				$250
 			</td>
-			<td class="BanderaNoruega">
-				Bandera
-				<br/>
-				Noruega
+			<td width="140px" class="BanderaNoruega">
 			</td>
-			<td class="SegmentoEuropeoUno">
-				Color segmento
-				<br/>
-				europeo uno
-				<br/>
-				Noruega
+			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
 			<td rowspan=9 colspan=9>
 				Mapa
@@ -183,16 +130,8 @@
 				Mundo
 			</td>
 			<td class="SegmentoAfricanoDos">
-				Color segmento
-				<br/>
-				africano dos
-				<br/>
-				Liberia
 			</td>
-			<td class="BanderaLiberia">
-				Bandera
-				<br/>
-				Liberia
+			<td width="140px" class="BanderaLiberia">
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Liberia
@@ -209,17 +148,9 @@
 				<br/>
 				Consulado
 			</td>
-			<td class="SegmentoAfricanoDos">
-				Color segmento
-				<br/>
-				africano dos
-				<br/>
-				Nigeria
+			<td height="100px" width="20px" class="SegmentoAfricanoDos">
 			</td>
 			<td class="BanderaNigeria">
-				Bandera
-				<br/>
-				Nigeria
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Nigeria
@@ -234,16 +165,8 @@
 				$ 270
 			</td>
 			<td class="BanderaAlemania">
-				Bandera
-				<br/>
-				Alemania
 			</td>
-			<td class="SegmentoEuropeoUno">
-				Color segmento
-				<br/>
-				europeo uno
-				<br/>
-				Alemania
+			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
 			<td colspan=2>
 				Imagen
@@ -261,28 +184,12 @@
 				$ 300
 			</td>
 			<td class="BanderaPolonia">
-				Bandera
-				<br/>
-				Polonia
 			</td>
-			<td class="SegmentoEuropeoUno">
-				Color segmento
-				<br/>
-				europeo uno
-				<br/>
-				Polonia
+			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
-			<td class="SegmentoAfricanoDos">
-				Color segmento
-				<br/>
-				africano dos
-				<br/>
-				Sudán
+			<td height="100px" width="20px" class="SegmentoAfricanoDos">
 			</td>
 			<td class="BanderaSudán">
-				Bandera
-				<br/>
-				Sudán
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Sudán
@@ -327,28 +234,12 @@
 				$ 300
 			</td>
 			<td class="BanderaEspaña">
-				Bandera
-				<br/>
-				España
 			</td>
-			<td class="SegmentoEuropeoDos">
-				Color segmento
-				<br/>
-				europeo dos
-				<br/>
-				España
+			<td height="100px" width="20px" class="SegmentoEuropeoDos">
 			</td>
-			<td class="SegmentoAfricanoUno">
-				Color segmento
-				<br/>
-				africano uno
-				<br/>
-				Etiopía
+			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
 			<td class="BanderaEtiopía">
-				Bandera
-				<br/>
-				Etiopía
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Etiopía
@@ -381,28 +272,12 @@
 				$ 320
 			</td>
 			<td class="BanderaFrancia">
-				Bandera
-				<br/>
-				Francia
 			</td>
-			<td class="SegmentoEuropeoDos">
-				Color segmento
-				<br/>
-				europeo dos
-				<br/>
-				Francia
+			<td height="100px" width="20px" class="SegmentoEuropeoDos">
 			</td>
-			<td class="SegmentoAfricanoUno">
-				Color segmento
-				<br/>
-				africano uno
-				<br/>
-				Marruecos
+			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
 			<td class="BanderaMarruecos">
-				Bandera
-				<br/>
-				Marruecos
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Marruecos
@@ -417,23 +292,10 @@
 				$ 350
 			</td>
 			<td class="BanderaInglaterra">
-				Bandera
-				<br/>
-				Inglaterra
 			</td>
-			<td class="SegmentoEuropeoDos">
-				Color segmento
-				<br/>
-				europeo dos
-				<br/>
-				Inglaterra
+			<td height="100px" width="20px" class="SegmentoEuropeoDos">
 			</td>
-			<td class="SegmentoAfricanoUno">
-				Color segmento
-				<br/>
-				africano uno
-				<br/>
-				Libia
+			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
 			<td class="BanderaLibia">
 				Bandera
@@ -447,103 +309,55 @@
 			</td>
 		</tr>
 		<tr>
-			<td rowspan=3 colspan=3>
+			<td rowspan=3 colspan=3 class="BanderaMéxico">
 				Méxicow
 			</td>
-			<td class="SegmentoAmericanoUno">
-				Color segmento
-				<br/>
-				americano uno
-				<br/>
-				Estados Unidos
+			<td height="20px" width="100px" class="SegmentoAmericanoUno">
 			</td>
-			<td class="SegmentoAmericanoUno">
-				Color segmento
-				<br/>
-				americano uno
-				<br/>
-				El Salvador
+			<td height="20px" width="100px" class="SegmentoAmericanoUno">
 			</td>
 			<td rowspan=2>
 				Imagen
 				<br/>
 				Visas
 			</td>
-			<td class="SegmentoAmericanoUno">
-				Color segmento
-				<br/>
-				americano uno
-				<br/>
-				Panamá
+			<td height="20px" width="100px" class="SegmentoAmericanoUno">
 			</td>
 			<td rowspan=2>
 				Imagen Línea
 				<br/>
 				Aérea americana
 			</td>
-			<td class="SegmentoAmericanoDos">
-				Color segmento
-				<br/>
-				americano dos
-				<br/>
-				Venezuela
+			<td height="20px" width="100px" class="SegmentoAmericanoDos">
 			</td>
-			<td class="SegmentoAmericanoDos">
-				Color segmento
-				<br/>
-				americano dos
-				<br/>
-				Brazil
+			<td height="20px" width="100px" class="SegmentoAmericanoDos">
 			</td>
 			<td rowspan=2>
 				Imagen
 				<br/>
 				E-mail
 			</td>
-			<td class="SegmentoAmericanoDos">
-				Color segmento
-				<br/>
-				americano dos
-				<br/>
-				Argentina
+			<td height="20px" width="100px" class="SegmentoAmericanoDos">
 			</td>
-			<td rowspan=3 colspan=3>
+			<td rowspan=3 colspan=3 class="Deportado">
 				Deportado
 			</td>
 		</tr>
 		<tr>
-			<td class="BanderaEstadosUnidos">
-				Bandera
-				<br/>
-				Estados Unidos
+			<td height="140px" class="BanderaEstadosUnidos">
 			</td>
 			<td class="BanderaElSalvador">
-				Bandera
-				<br/>
-				El Salvador
 			</td>
 			<td class="BanderaPanamá">
-				Bandera
-				<br/>
-				Panamá
 			</td>
 			<td class="BanderaVenezuela">
-				Bandera
-				<br/>
-				Venezuela
 			</td>
 			<td class="BanderaBrazil">
-				Bandera
-				<br/>
-				Brazil
 			</td>
 			<td class="BanderaArgentina">
-				Bandera
-				<br/>
-				Argentina
 			</td>
 		</tr>
-		<tr>
+		<tr height="40px">
 			<td class="EtiquetasDePreciosInferior">
 				Estados
 				<br/>

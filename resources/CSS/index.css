@@ -64,21 +64,21 @@
 .BanderaEtiopía
 {
 	background-image: url('/resources/SVG/Flag_of_Ethiopia.svg');
-	background-size: contain;
+	background-size: 140px 100px;
 	background-repeat: no-repeat;
 }
 
 .BanderaFrancia
 {
 	background-image: url('/resources/SVG/Flag_of_France.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .BanderaAlemania
 {
 	background-image: url('/resources/SVG/Flag_of_Germany.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -106,7 +106,7 @@
 .BanderaEspaña
 {
 	background-image: url('/resources/SVG/Flag_of_Spain.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -134,14 +134,14 @@
 .BanderaLiberia
 {
 	background-image: url('/resources/SVG/Flag_of_Liberia.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .BanderaLibia
 {
 	background-image: url('/resources/SVG/Flag_of_Libya.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -150,12 +150,17 @@
 	background-image: url('/resources/SVG/Flag_of_Mexico.svg');
 	background-size: contain;
 	background-repeat: no-repeat;
+	font-size: 24px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	transform: rotate(45deg);
 }
 
 .BanderaMarruecos
 {
 	background-image: url('/resources/SVG/Flag_of_Morocco.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -163,7 +168,6 @@
 {
 	background-image: url('/resources/SVG/Flag_of_Nigeria.svg');
 	background-size: contain;
-	background-repeat: no-repeat;
 }
 
 .BanderaNoruega
@@ -183,14 +187,14 @@
 .BanderaPolonia
 {
 	background-image: url('/resources/SVG/Flag_of_Poland.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
 .BanderaSudán
 {
 	background-image: url('/resources/SVG/Flag_of_Sudan.svg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -213,6 +217,30 @@
 	background-image: url('/resources/SVG/Flag_of_Turkey.svg');
 	background-size: contain;
 	background-repeat: no-repeat;
+}
+
+.BanderaGroenlandia
+{
+	background-image: url('/resources/SVG/Flag_of_Greenland.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	font-size: 24px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	transform: rotate(-225deg);
+}
+
+.BanderaAustralia
+{
+	background-image: url('/resources/SVG/Flag_of_Australia_\(converted\).svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	font-size: 24px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	transform: rotate(225deg);
 }
 
 .EtiquetasDePreciosSuperior
@@ -249,4 +277,13 @@
 	font-family: 'Arial';
 	text-align: center;
 	vertical-align: middle;
+}
+
+.Deportado
+{
+	font-size: 24px;
+	font-family: 'Arial';
+	text-align: center;
+	vertical-align: middle;
+	transform: rotate(-45deg);
 }
