@@ -287,3 +287,20 @@
 	vertical-align: middle;
 	transform: rotate(-45deg);
 }
+
+.BanderasSuperiores
+{
+	transform: rotate(270deg) translateX(50px) translateY(-20px);
+	position: relative;
+}
+
+.BanderasInferiores
+{
+	transform: rotate(90deg) translateY(20px);
+}
+
+.CeldaDeBanderaSuperior
+{
+	width:100px;
+	height:140px;
+}

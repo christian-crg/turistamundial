@@ -68,36 +68,89 @@
 				Oceanía
 			</td>
 		</tr>
-		<tr height="160px">
-			<td class="BanderaJapón">
-				<picture></picture>
+		<tr>
+			<td class="CeldaDeBanderaSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Japón"
+						src="resources/SVG/Flag_of_japan.svg"
+						class="BanderasSuperiores"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
-			<td rowspan=2>
+			<td rowspan=2 style="width:100px; height:160px;">
 				Imagen
 				<br/>
 				Aduana
 			</td>
-			<td class="BanderaChina">
+			<td class="CeldaDeBanderaSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de China"
+						src="/resources/SVG/Flag_of_the_People's_Republic_of_China.svg"
+						class="BanderasSuperiores"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
-			<td class="BanderaTurquía">
+			<td class="CeldaDeBanderaSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Turquía"
+						src="/resources/SVG/Flag_of_Turkey.svg"
+						class="BanderasSuperiores"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
-			<td rowspan=2>
+			<td rowspan=2 style="width:100px; height:160px;">
 				Imagen
 				<br/>
 				Línea Aérea
 				<br/>
 				Asiática
 			</td>
-			<td class="BanderaIsrael">
+			<td class="CeldaDeBanderaSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Israel"
+						src="/resources/SVG/Flag_of_Israel.svg"
+						class="BanderasSuperiores"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td rowspan=2>
 				Imagen
 				<br/>
 				E-mail
 			</td>
-			<td class="BanderaIndia">
+			<td class="CeldaDeBanderaSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de India"
+						src="/resources/SVG/Flag_of_India.svg"
+						class="BanderasSuperiores"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
-			<td class="BanderaRusia">
+			<td class="CeldaDeBanderaSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Rusia"
+						src="/resources/SVG/Flag_of_Russia.svg"
+						class="BanderasSuperiores"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 		</tr>
 		<tr>
@@ -298,9 +351,6 @@
 			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
 			<td class="BanderaLibia">
-				Bandera
-				<br/>
-				Libia
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Libia
@@ -316,7 +366,7 @@
 			</td>
 			<td height="20px" width="100px" class="SegmentoAmericanoUno">
 			</td>
-			<td rowspan=2>
+			<td rowspan=2 style="width:100px; height:160px;">
 				Imagen
 				<br/>
 				Visas
@@ -344,17 +394,59 @@
 			</td>
 		</tr>
 		<tr>
-			<td height="140px" class="BanderaEstadosUnidos">
+			<td height="140px" style="max-width: 100px;">
+				<img
+					alt="Bandera de Estados Unidos"
+					src="resources/SVG/Flag_of_the_United_States_(Web_Colors).svg"
+					class="BanderasInferiores"
+					width="140"
+					height="140"
+  				/>
 			</td>
-			<td class="BanderaElSalvador">
+			<td height="140px" style="max-width: 100px;">
+				<img
+					alt="Bandera de El Salvador"
+					src="resources/SVG/Flag_of_El_Salvador.svg"
+					class="BanderasInferiores"
+					width="140"
+					height="100"
+  				/>
 			</td>
-			<td class="BanderaPanamá">
+			<td height="140px" style="max-width: 100px;">
+				<img
+					alt="Bandera de Panamá"
+					src="resources/SVG/Flag_of_Panama.svg"
+					class="BanderasInferiores"
+					width="140"
+					height="100"
+  				/>
 			</td>
-			<td class="BanderaVenezuela">
+			<td height="140px" style="max-width: 100px;">
+				<img
+					alt="Bandera de Venezuela"
+					src="resources/SVG/Flag_of_Venezuela.svg"
+					class="BanderasInferiores"
+					width="140"
+					height="100"
+  				/>
 			</td>
-			<td class="BanderaBrazil">
+			<td height="140px" style="max-width: 100px;">
+				<img
+					alt="Bandera de Brazil"
+					src="resources/SVG/Flag_of_Brazil.svg"
+					class="BanderasInferiores"
+					width="140"
+					height="100"
+  				/>
 			</td>
-			<td class="BanderaArgentina">
+			<td height="140px" style="max-width: 100px;">
+				<img
+					alt="Bandera de Argentina"
+					src="resources/SVG/Flag_of_Argentina.svg"
+					class="BanderasInferiores"
+					width="140"
+					height="100"
+  				/>
 			</td>
 		</tr>
 		<tr height="40px">
