@@ -73,17 +73,23 @@
 				<span style="position:absolute;">
 					<img
 						alt="Bandera de Japón"
-						src="resources/SVG/Flag_of_japan.svg"
+						src="resources/SVG/Flag_of_Japan.svg"
 						class="BanderasSuperiores"
 						width="140"
 						height="100"
 					/>
 				</span>
 			</td>
-			<td rowspan=2 style="width:100px; height:160px;">
-				Imagen
-				<br/>
-				Aduana
+			<td rowspan=2 class="CeldaDeContenidoSuperior">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Aduana"
+						src="resources/SVG/customs-svgrepo-com.svg"
+						class="ContenidoSuperior"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="CeldaDeBanderaSuperior">
 				<span style="position:absolute;">
@@ -107,12 +113,16 @@
 					/>
 				</span>
 			</td>
-			<td rowspan=2 style="width:100px; height:160px;">
-				Imagen
-				<br/>
-				Línea Aérea
-				<br/>
-				Asiática
+			<td rowspan=2 class="MapaAsia">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Línea Aérea Asiática"
+						src="resources/SVG/arrival-flight-svgrepo-com.svg"
+						class="ContenidoSuperior"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="CeldaDeBanderaSuperior">
 				<span style="position:absolute;">
@@ -126,9 +136,15 @@
 				</span>
 			</td>
 			<td rowspan=2>
-				Imagen
-				<br/>
-				E-mail
+				<span style="position:absolute;">
+					<img
+						alt="Imagen E-mail"
+						src="resources/SVG/email.svg"
+						class="ContenidoSuperior"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="CeldaDeBanderaSuperior">
 				<span style="position:absolute;">
@@ -173,18 +189,33 @@
 				<br/>
 				$250
 			</td>
-			<td width="140px" class="BanderaNoruega">
+			<td width="140px" class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Noruega"
+						src="/resources/SVG/Flag_of_Norway.svg"
+						class="BanderasLateralesIzquierdas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
-			<td rowspan=9 colspan=9>
-				Mapa
-				<br/>
-				Mundo
+			<td rowspan=9 colspan=9 class="MapaDelMundo">
 			</td>
 			<td class="SegmentoAfricanoDos">
 			</td>
-			<td width="140px" class="BanderaLiberia">
+			<td width="140px" class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Liberia"
+						src="/resources/SVG/Flag_of_Liberia.svg"
+						class="BanderasLateralesDerechas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Liberia
@@ -196,14 +227,29 @@
 			<td class="EtiquetasDePreciosIzquierdo">
 				Consulado
 			</td>
-			<td colspan=2>
-				Imagen
-				<br/>
-				Consulado
+			<td colspan=2 class="CeldaDeContenidoIzquierdo">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Consulado"
+						src="/resources/SVG/embassy.svg"
+						class="ContenidoIzquierdo"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoAfricanoDos">
 			</td>
-			<td class="BanderaNigeria">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Nigeria"
+						src="/resources/SVG/Flag_of_Nigeria.svg"
+						class="BanderasLateralesDerechas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Nigeria
@@ -217,14 +263,29 @@
 				<br/>
 				$ 270
 			</td>
-			<td class="BanderaAlemania">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Alemania"
+						src="/resources/SVG/Flag_of_Germany.svg"
+						class="BanderasLateralesIzquierdas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
-			<td colspan=2>
-				Imagen
-				<br/>
-				Fax
+			<td colspan=2 class="CeldaDeContenidoDerecho">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Fax"
+						src="/resources/SVG/fax-machine-svgrepo-com.svg"
+						class="ContenidoDerecho"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Fax
@@ -236,13 +297,31 @@
 				<br/>
 				$ 300
 			</td>
-			<td class="BanderaPolonia">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Polonia"
+						src="/resources/SVG/Flag_of_Poland.svg"
+						class="BanderasLateralesIzquierdas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
 			<td height="100px" width="20px" class="SegmentoAfricanoDos">
 			</td>
-			<td class="BanderaSudán">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Sudán"
+						src="/resources/SVG/Flag_of_Sudan.svg"
+						class="BanderasLateralesDerechas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Sudán
@@ -258,19 +337,27 @@
 				<br/>
 				$ 200
 			</td>
-			<td colspan=2>
-				Imagen
-				<br/>
-				Línea aérea
-				<br/>
-				Europea
+			<td colspan=2 class="MapaEuropa">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Aerolínea Europea"
+						src="/resources/SVG/arrival-flight-svgrepo-com.svg"
+						class="ContenidoIzquierdo"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
-			<td colspan=2>
-				Imagen
-				<br/>
-				Línea aérea
-				<br/>
-				Africana
+			<td colspan=2 class="MapaAfrica">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Aerolínea Africana"
+						src="/resources/SVG/arrival-flight-svgrepo-com.svg"
+						class="ContenidoDerecho"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Línea aérea
@@ -286,13 +373,31 @@
 				<br/>
 				$ 300
 			</td>
-			<td class="BanderaEspaña">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de España"
+						src="/resources/SVG/Flag_of_Spain.svg"
+						class="BanderasLateralesIzquierdas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoEuropeoDos">
 			</td>
 			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
-			<td class="BanderaEtiopía">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Etiopía"
+						src="/resources/SVG/Flag_of_Ethiopia.svg"
+						class="BanderasLateralesDerechas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Etiopía
@@ -304,15 +409,27 @@
 			<td class="EtiquetasDePreciosIzquierdo">
 				Fax
 			</td>
-			<td colspan=2>
-				Imagen
-				<br/>
-				Fax
+			<td colspan=2 class="CeldaDeContenidoIzquierdo">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Fax"
+						src="/resources/SVG/fax-machine-svgrepo-com.svg"
+						class="ContenidoIzquierdo"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
-			<td colspan=2>
-				Imagen
-				<br/>
-				Embajada
+			<td colspan=2 class="CeldaDeContenidoDerecho">
+				<span style="position:absolute;">
+					<img
+						alt="Imagen Embajada"
+						src="/resources/SVG/embassy-svgrepo-com.svg"
+						class="ContenidoDerecho"
+						width="160"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Embajada
@@ -324,13 +441,31 @@
 				<br/>
 				$ 320
 			</td>
-			<td class="BanderaFrancia">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Francia"
+						src="/resources/SVG/Flag_of_France.svg"
+						class="BanderasLateralesIzquierdas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoEuropeoDos">
 			</td>
 			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
-			<td class="BanderaMarruecos">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Marruecos"
+						src="/resources/SVG/Flag_of_Morocco.svg"
+						class="BanderasLateralesDerechas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Marruecos
@@ -344,13 +479,31 @@
 				<br/>
 				$ 350
 			</td>
-			<td class="BanderaInglaterra">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Inglaterra"
+						src="/resources/SVG/Flag_of_the_United_Kingdom.svg"
+						class="BanderasLateralesIzquierdas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td height="100px" width="20px" class="SegmentoEuropeoDos">
 			</td>
 			<td height="100px" width="20px" class="SegmentoAfricanoUno">
 			</td>
-			<td class="BanderaLibia">
+			<td class="CeldaDeBanderaLateral">
+				<span style="position:absolute;">
+					<img
+						alt="Bandera de Libia"
+						src="/resources/SVG/Flag_of_Libya.svg"
+						class="BanderasLateralesDerechas"
+						width="140"
+						height="100"
+					/>
+				</span>
 			</td>
 			<td class="EtiquetasDePreciosDerecho">
 				Libia
@@ -367,25 +520,34 @@
 			<td height="20px" width="100px" class="SegmentoAmericanoUno">
 			</td>
 			<td rowspan=2 style="width:100px; height:160px;">
-				Imagen
-				<br/>
-				Visas
+				<img
+					alt="Imagen Visas"
+					src="resources/SVG/documentation.svg"
+					width="100"
+					height="160"
+  				/>
 			</td>
 			<td height="20px" width="100px" class="SegmentoAmericanoUno">
 			</td>
-			<td rowspan=2>
-				Imagen Línea
-				<br/>
-				Aérea americana
+			<td rowspan=2 class="MapaAmerica">
+				<img
+					alt="Imagen Línea Aérea Americana"
+					src="resources/SVG/arrival-flight-svgrepo-com.svg"
+					width="100"
+					height="160"
+  				/>
 			</td>
 			<td height="20px" width="100px" class="SegmentoAmericanoDos">
 			</td>
 			<td height="20px" width="100px" class="SegmentoAmericanoDos">
 			</td>
 			<td rowspan=2>
-				Imagen
-				<br/>
-				E-mail
+				<img
+					alt="Imagen E-mail"
+					src="resources/SVG/email.svg"
+					width="100"
+					height="160"
+  				/>
 			</td>
 			<td height="20px" width="100px" class="SegmentoAmericanoDos">
 			</td>

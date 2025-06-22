@@ -191,7 +191,7 @@
 	background-repeat: no-repeat;
 }
 
-.BanderaSudán
+.BanderaSudan
 {
 	background-image: url('/resources/SVG/Flag_of_Sudan.svg');
 	background-size: cover;
@@ -299,8 +299,108 @@
 	transform: rotate(90deg) translateY(20px);
 }
 
+.BanderasLateralesIzquierdas
+{
+	transform: rotate(180deg) translateY(50px);
+	position: relative;
+}
+
+.BanderasLateralesDerechas
+{
+	transform: translateY(-50px);
+	position: relative;
+}
+
 .CeldaDeBanderaSuperior
 {
 	width:100px;
 	height:140px;
+}
+
+.CeldaDeBanderaLateral
+{
+	max-width: 140px;
+	width:140px;
+	height:100px;
+}
+
+.CeldaDeContenidoSuperior
+{
+	width:100px;
+	height:160px;
+}
+
+.ContenidoSuperior
+{
+	transform: rotate(180deg) translateX(30px) translateY(50px);
+}
+
+.CeldaDeContenidoIzquierdo
+{
+	width:160px;
+	height:100px;
+}
+
+.ContenidoIzquierdo
+{
+	transform: rotate(90deg) translateX(-50px) translateY(-10px);
+}
+
+.CeldaDeContenidoDerecho
+{
+	width:160px;
+	height:100px;
+}
+
+.ContenidoDerecho
+{
+	transform: rotate(-90deg) translateX(50px) translateY(-10px);
+}
+
+.MapaDelMundo
+{
+	background-image: url('/resources/SVG/BlankMap-World.svg');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.MapaAfrica
+{
+	width:160px;
+	height:100px;
+	background-image: url('/resources/SVG/BlankMap-Africa.svg');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.MapaAmerica
+{
+	width:100px;
+	height:160px;
+	background-image: url('/resources/SVG/BlankMap-Americas.svg');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.MapaAsia
+{
+	width:100px;
+	height:160px;
+	background-image: url('/resources/SVG/Civil_union_map_Asia.svg');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.MapaEuropa
+{
+	width:160px;
+	height:100px;
+	background-image: url('/resources/SVG/Blank_map_of_Europe_\(with_disputed_regions\).svg');
+	background-size: contain;
+	background-position: center;
+	background-repeat: no-repeat;
 }
