@@ -203,6 +203,10 @@
 			<td height="100px" width="20px" class="SegmentoEuropeoUno">
 			</td>
 			<td rowspan=9 colspan=9 class="MapaDelMundo">
+				<canvas id="DicesCanvas" width="80" height="40" alt="Dices">
+				</canvas>
+				<script src="/SourceCode/main.js">
+				</script>
 			</td>
 			<td class="SegmentoAfricanoDos">
 			</td>
